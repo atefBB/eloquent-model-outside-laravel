@@ -1,1 +1,1 @@
-Eloquent ORM outsite Laravel  
+Eloquent ORM outside Laravel  
